@@ -1,4 +1,4 @@
-# 📦 QR Upload & Print System
+# 📦 QR Based File Sharing
 
 A smart web-based system for students and printing shop owners to share and print documents **instantly using QR codes** — no more messy WhatsApp or email transfers.
 
